@@ -258,7 +258,6 @@ const achievementSection = {
   achievementsCards: [
     {
       title: "AWS Cloud Technical Essentials",
-      subtitle: "Completed this course on Coursera to understand core AWS services and cloud infrastructure basics. Skills: AWS Identity and Access Management (AWS IAM) · Networking on AWS · Cloud Computing · AWS Management Console · AWS Security.",
       image: require("./assets/images/AWS-Logo.png"), 
       imageAlt: "AWS Certification",
       footerLink: [
@@ -270,7 +269,6 @@ const achievementSection = {
     },
     {
       title: "ChatGPT for Beginners",
-      subtitle: "Completed ChatGPT training from Great Learning Academy, learning prompt engineering and AI fundamentals.",
       image: require("./assets/images/Chatgpt-Logo.png"), 
       imageAlt: "ChatGPT Certification",
       footerLink: [
@@ -282,7 +280,6 @@ const achievementSection = {
     },
     {
       title: "SEO with Squarespace",
-      subtitle: "Learned practical SEO strategies using Squarespace via Coursera.",
       image: require("./assets/images/SEO-Logo.png"), 
       imageAlt: "SEO Certification",
       footerLink: [
@@ -294,7 +291,6 @@ const achievementSection = {
     },
     {
       title: "Advance Amazon Virtual Assistant",
-      subtitle: "Completed Advance Amazon Virtual Assistant at E-Global, Sialkot to understand e-commerce fundamentals.",
       image: require("./assets/images/Amazon-Logo.png"), 
       imageAlt: "Amazon Certification",
       footerLink: [
@@ -306,7 +302,6 @@ const achievementSection = {
     },
     {
       title: "Microsoft Office Management",
-      subtitle: "Gained hands-on skills in Word, Excel, and PowerPoint at English Language Club, Sialkot.",
       image: require("./assets/images/Microsoft365-Logo.png"), 
       imageAlt: "Microsoft Office Certificate",
       footerLink: [
@@ -318,7 +313,6 @@ const achievementSection = {
     },
     {
       title: "English Proficiency Certificate",
-      subtitle: "Gained hands-on skills in English Proficiency at English Language Club, Sialkot.",
       image: require("./assets/images/ELC-Logo.jpg"), 
       imageAlt: "English Proficiency Certificate",
       footerLink: [
@@ -330,7 +324,6 @@ const achievementSection = {
     }, 
     {
       title: "CodeAlpha Internship",
-      subtitle: "Contributed to frontend development projects, enhancing user interfaces and improving component functionality.",
       image: require("./assets/images/CodeAlpha_Logo.png"), 
       imageAlt: "CodeAlpha Internship Certificate",
       footerLink: [
@@ -342,7 +335,6 @@ const achievementSection = {
     }, 
     {
       title: "RP9 Internship",
-      subtitle: "Conducting comprehensive testing of software applications to ensure quality and functionality.",
       image: require("./assets/images/RP9-Logo.jpg"), 
       imageAlt: "RP9 Internship Certificate",
       footerLink: [
@@ -354,7 +346,6 @@ const achievementSection = {
     }, 
     {
       title: "Artificial Intelligence for Beginners",
-      subtitle: "Skills: Artificial Intelligence (AI) · Machine Learning · Data Analysis · Natural Language Processing (NLP) · Python Programming",
       image: require("./assets/images/Alison-Logo.jpeg"), 
       imageAlt: "Artificial Intelligence for Beginners Certificate",
       footerLink: [
@@ -399,7 +390,6 @@ const achievementSection = {
     }, 
     {
       title: "Master Microsoft 365: Essential Skills and Beyond",
-      subtitle: "Skills: Microsoft Word · Microsoft Excel · Microsoft PowerPoint · Microsoft Teams · Microsoft SharePoint",
       image: require("./assets/images/Alison-Logo.jpeg"), 
       imageAlt: "Master Microsoft 365: Essential Skills and Beyond Certificate",
       footerLink: [
@@ -411,7 +401,6 @@ const achievementSection = {
     }, 
     {
       title: "Programming C#: Fundamentals",
-      subtitle: "Skills: C# Programming · Object-Oriented Programming (OOP) · Data Structures · Debugging Techniques",
       image: require("./assets/images/Alison-Logo.jpeg"), 
       imageAlt: "Programming C#: Fundamentals Certificate",
       footerLink: [
@@ -423,7 +412,6 @@ const achievementSection = {
     }, 
     {
       title: "Cloud Essentials - Knowledge Badge Readiness Path",
-      subtitle: "Skills: Cloud Computing Fundamentals · Cloud Service Models · Cloud Security Best Practices · Cost Management in Cloud Environments · Cloud Architecture Principles",
       image: require("./assets/images/AWS-Logo.png"),
       imageAlt: "Cloud Essentials - Knowledge Badge Readiness Path Certificate",
       footerLink: [
